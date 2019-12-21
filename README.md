@@ -1,0 +1,1 @@
+# Makefile-for-building-c-ares-libraries-and-sample-programs-with-MSVC.
